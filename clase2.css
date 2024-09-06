@@ -65,3 +65,27 @@ button:hover{background-color:#008c4a;}
 
 button:focus{background-color:#008c4a;}
 
+input:checked {
+  background: #444;
+  color: #fff;
+}
+
+input[type=radio]:checked ~ .check {
+  border: 5px solid #0DFF92;
+}
+
+input[type=radio]:checked ~ .check::before{
+  background: #0DFF92;
+}
+
+input[type=radio]:checked ~ label{
+  color: #0DFF92;
+}
+
+.mat-card-title {
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0;
+  line-height: 24px;
+}
+
