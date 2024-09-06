@@ -888,16 +888,14 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 .mat-option.mat-active {
     background: rgba(0, 129, 68, .04);
     color: inherit !important;
-    // color: rgba(0, 129, 68, .87);
 }
 
 .mat-option.mat-option-disabled {
     color: inherit !important;
-    // color: rgba(0, 129, 68, .38);
 }
 
 .mat-primary .mat-option.mat-selected:not(.mat-option-disabled) {
-    // color: #008144;
+
     color: inherit !important;
 }
 
@@ -1075,7 +1073,6 @@ textarea.cdk-textarea-autosize-measuring-firefox {
 
 .mat-autocomplete-panel .mat-option.mat-selected:not(.mat-active):not(:hover):not(.mat-option-disabled) {
     color: inherit !important;
-    // color: rgba(0, 129, 68, .87);
 }
 
 .mat-badge {
