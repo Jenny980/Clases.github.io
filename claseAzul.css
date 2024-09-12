@@ -2528,7 +2528,7 @@ td.mat-footer-cell {
 }
 
 .mat-drawer-backdrop.mat-drawer-shown {
-    background-color: rgba(0, 129, 68, .6)
+    background-color: #0F1447
 }
 
 .mat-slide-toggle.mat-checked .mat-slide-toggle-thumb {
@@ -2536,7 +2536,7 @@ td.mat-footer-cell {
 }
 
 .mat-slide-toggle.mat-checked .mat-slide-toggle-bar {
-    background-color: rgba(0, 128, 68, .54)
+    background-color: #0F1447
 }
 
 .mat-slide-toggle.mat-checked .mat-ripple-element {
