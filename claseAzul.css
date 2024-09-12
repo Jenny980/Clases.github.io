@@ -216,7 +216,7 @@ input[type=radio]:checked ~ label{
 
 .mat-card {
     font-family: Roboto, "Helvetica Neue", sans-serif;
-    border-color: #b4e4e0 !important;
+    border-color: #a5d3d1 !important;
     border-style: solid !important;
     border-width: 2px !important;
 }
