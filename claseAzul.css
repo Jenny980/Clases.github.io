@@ -2032,11 +2032,11 @@ td.mat-footer-cell {
 }
 
 .mat-form-field-label {
-    color: rgba(0, 129, 68, 0.87)
+    color: #0F1447
 }
 
 .mat-hint {
-    color: rgba(0, 129, 68, .6)
+    color: #0F1447
 }
 
 .mat-form-field.mat-focused .mat-form-field-label {
