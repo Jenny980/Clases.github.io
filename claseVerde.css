@@ -63,8 +63,6 @@ button{
 
 button:hover{background-color:#008c4a;}
 
-button:focus{background-color:#008c4a;}
-
 input:checked {
   background: #444;
   color: #fff;
